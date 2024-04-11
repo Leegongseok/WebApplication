@@ -52,7 +52,7 @@ public class SampleController {
 
     }
 
-    @GetMapping("/ex3")
+    @GetMapping({"/ex3","exLayout1"})
     public void ex3(){
 
     }
